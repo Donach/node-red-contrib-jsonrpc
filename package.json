@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-jsonrpc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Node RED wrapper arround a JSON RPC 2.0 implementation.",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joeartsea/node-red-contrib-jsonrpc.git"
+    "url": "git+https://github.com/Donach/node-red-contrib-jsonrpc.git"
   },
   "bugs": {
-    "url": "https://github.com/joeartsea/node-red-contrib-jsonrpc/issues"
+    "url": "https://github.com/Donach/node-red-contrib-jsonrpc/issues"
   },
-  "homepage": "https://github.com/joeartsea/node-red-contrib-jsonrpc#readme",
+  "homepage": "https://github.com/Donach/node-red-contrib-jsonrpc#readme",
   "node-red": {
     "nodes": {
       "jsonrpc": "jsonrpc/jsonrpc.js"
@@ -24,7 +24,7 @@
     "rpc",
     "node-red"
   ],
-  "author": "oskar.hagberg@gmail.com",
+  "author": "donach.cz@gmail.com",
   "license": "ISC",
   "dependencies": {
     "json-rpc2": "^2.0.0"
