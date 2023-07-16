@@ -27,6 +27,6 @@
   "author": "oskar.hagberg@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "json-rpc2": "^1.0.2"
+    "json-rpc2": "^2.0.0"
   }
 }
